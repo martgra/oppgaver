@@ -410,3 +410,6 @@ nyttige når man vil tegne flere figurer som ikke henger sammen.
 Et annet tips er funksjonen `speed()`. Denne justerer hastigheten som
 skilpadden tegner med. For eksempel vil `speed(1)` tegne veldig sakte,
 mens `speed(11)` tegner kjempefort.
+
+For å hindre at vinduer automatisk lukker seg når programmet er ferdig kan funksjonen `done()`
+legges til på slutten av programmet. 
